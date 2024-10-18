@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Arduino coding
 - 💞️ I’m looking to collaborate on same
 - 📫 How to reach me steveregan99@gmail.com 
-- 😄 Pronouns: Male
+- 😄 Pronouns: Male, age 68
 - ⚡ Fun fact: Toronto, Ontario, Canada area
 
 <!---
